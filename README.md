@@ -19,3 +19,4 @@ Although there are many variables in the data set there are ones that I belive w
 There are also some variables in the data set that I cannot tell what they mean. 
 
 ### Initial method ideas
+I plan to apply various variable selection techniques to determine which of the 92 independent variables are statistically relevant in classifying the pitch type. Because the purpose of this research is for classification I will apply various classification techniques such as K-nearist-neighbors, decisions trees, random forest, and neural networks. 
