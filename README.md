@@ -20,3 +20,11 @@ There are also some variables in the data set that I cannot tell what they mean.
 
 ### Initial method ideas
 I plan to apply various variable selection techniques to determine which of the 92 independent variables are statistically relevant in classifying the pitch type. Because the purpose of this research is for classification I will apply various classification techniques such as K-nearist-neighbors, decisions trees, random forest, and neural networks. 
+
+
+### References 
+Data
+https://www.kaggle.com/datasets/s903124/mlb-statcast-data
+
+Background info
+https://baseballsavant.mlb.com/about
